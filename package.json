@@ -1,0 +1,13 @@
+{
+  "name": "neo-ddos",
+  "version": "5.0.0",
+  "description": "🔥 NEO DDOS - 5 Server Nuclear Attack System 🔥",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "@VISANEO | @GENZNEO"
+}
